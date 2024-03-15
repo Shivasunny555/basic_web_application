@@ -1,6 +1,6 @@
 # BASIC WEB APPLICATION
 
-- This is a simple web application for submitting user data through a form. It includes both frontend and backend components to handle form submission, data processing, and storage in a MySQL database.
+- This is a simple web application for submitting user data through a form. That allows users to input data, validate it, store it in a database, retrieve it, and display it in a table format. It includes both frontend and backend components to handle form submission, data processing, and storage in a MySQL database.
 
 ## Technologies Used
 
