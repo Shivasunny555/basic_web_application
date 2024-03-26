@@ -32,33 +32,33 @@ CREATE TABLE user_data (
 
 );
 
-## Backend Setup:
+### Backend Setup:
 - Open the FormDataSubmission.java file.
 - Update the JDBC_URL, JDBC_USER, and JDBC_PASSWORD constants with your MySQL database credentials.
 
 
-## Frontend Setup:
+### Frontend Setup:
 - No additional setup required for frontend as it's static HTML, CSS, and JavaScript.
 
-## Execution
+### Execution
 - Compile and run the Java file.
 - This will start the backend server at http://localhost:8000.
 
-## Access the Application:
+### Access the Application:
 - Open your web browser and navigate to http://localhost:8000 by opening index.html file.
 - Fill in the form with your details and submit.
 
-## File Structure
+### File Structure
 - index.html: Contains the HTML structure of the form submission page.
 - style.css: Stylesheet for the HTML page.
 - script.js: JavaScript file handling form submission request to the backend.
 - FormDataSubmission.java: Backend Java file handling HTTP requests, form data processing, and database interaction.
 
-## Git Repository
+### Git Repository
 - [Repository Link] (https://github.com/Shivasunny555/basic_web_application)
 
-## Contributors
+### Contributors
 - BUSHPAKA SHIVA
 
-## License
+### License
 -This project is licensed under the MIT License
