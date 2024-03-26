@@ -21,7 +21,7 @@
 - Ensure that JDBC driver for MySQL is added to the classpath.
 - Execute the following SQL query to create the necessary table:
 
-
+```sql
 CREATE TABLE user_data (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
@@ -29,6 +29,7 @@ CREATE TABLE user_data (
     age INT NOT NULL,
     dob DATE NOT NULL
 );
+```
 
 ### Backend Setup:
 - Open the FormDataSubmission.java file.
